@@ -1,0 +1,15 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "this project is a resume of solid",
+  "main": "index.js",
+  "scripts": {
+    "dev": "slidev --open --port 3000"
+  },
+  "author": "Josevan Santos",
+  "license": "ISC",
+  "dependencies": {
+    "@slidev/cli": "^0.35.5",
+    "@slidev/theme-default": "^0.21.2"
+  }
+}
