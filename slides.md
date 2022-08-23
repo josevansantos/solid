@@ -1,12 +1,31 @@
 ---
-layout: cover
+src: ./slides/intro.md
 ---
 
-# Slidev
-
-This is the cover page.
+---
+src: ./slides/sub.md
+---
 
 ---
-layout: center
-class: 'text-white'
----​
+src: ./slides/principle1.md
+---
+
+---
+src: ./slides/principle2.md
+---
+
+---
+src: ./slides/principle3.md
+---
+
+---
+src: ./slides/principle4.md
+---
+
+---
+src: ./slides/principle5.md
+---
+
+---
+src: ./slides/references.md
+---
